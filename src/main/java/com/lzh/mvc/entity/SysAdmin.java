@@ -24,7 +24,7 @@ public class SysAdmin implements Serializable {
     /**
      * PK
      */
-    private String id;
+    private Integer id;
     /**
      * 用户名
      */
